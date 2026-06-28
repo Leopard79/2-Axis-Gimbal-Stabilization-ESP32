@@ -9,8 +9,7 @@ regardless of platform movement — the core principle behind targeting pods,
 CIWS systems, and drone gimbals.
 
 ## System Overview
-
-[INSERT: block diagram showing MPU6050 → ESP32 → Servos feedback loop]
+![Block diagram](media/block%20diagram.jpg)
 
 ## Hardware
 
