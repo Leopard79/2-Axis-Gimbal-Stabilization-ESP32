@@ -28,6 +28,9 @@ CIWS systems, and drone gimbals.
 - Pan Servo → GPIO2
 - Tilt Servo → GPIO15
 
+## Wiring Diagram
+![Wiring Diagram](media/wiring.png)
+
 ## Control Design
 
 **PID — Ziegler-Nichols Tuning:**
